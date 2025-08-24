@@ -1,0 +1,50 @@
+{
+  "feedback_url": "https://undsicdm3f.execute-api.us-east-2.amazonaws.com/prod/feedback",
+  "customer_url": "https://undsicdm3f.execute-api.us-east-2.amazonaws.com/prod/customers",
+  "http": {
+    "feedback": {
+      "ok": true,
+      "status": 200,
+      "error": null
+    },
+    "customer": {
+      "ok": true,
+      "status": 200,
+      "error": null
+    }
+  },
+  "shape": {
+    "feedback": "ok",
+    "customers": "ok"
+  },
+  "pre_merge": {
+    "feedback_rows": 600,
+    "customer_rows": 1211,
+    "feedback_unique_ids": 600,
+    "customer_unique_ids": 1211
+  },
+  "key_mismatches": {
+    "left_only_count": 504,
+    "right_only_count": 1115,
+    "left_only_sample": [
+      "1",
+      "10115",
+      "1015",
+      "1018",
+      "1027"
+    ],
+    "right_only_sample": [
+      "00001",
+      "00003",
+      "00018",
+      "00029",
+      "00047"
+    ]
+  },
+  "post_merge": {
+    "merged_rows": 96,
+    "merge_ratio_vs_feedback": 0.16,
+    "merge_ratio_vs_customer": 0.07927332782824112
+  },
+  "output_csv": "output/customer_feedback.csv"
+}
