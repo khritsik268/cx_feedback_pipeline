@@ -1,0 +1,97 @@
+customer_id,survey_q1,survey_q2,free_text,account_age_days,geographic_region,customer_segment,avg_survey_score
+11631,4,3,Service quality was lacking in several important areas. Would not recommend.,100,North America,2,3.5
+11284,4,3,Below average service with several issues that need addressing.,360,APAC,1,3.5
+11651,7,5,"Good service overall, though there's some room for minor improvements.",1422,North America,2,6.0
+11330,6,5,"Neutral feelings about the service. Some good, some not so good.",209,North America,1,5.5
+11420,6,8,Satisfied customer here. Just a few minor suggestions for improvement.,94,North America,3,7.0
+11778,5,5,"Neutral feelings about the service. Some good, some not so good.",1365,North America,2,5.0
+11220,5,6,Passable experience. Does the job but without any extras or special care.,56,APAC,1,5.5
+10687,5,4,Adequate service but lacks that special touch to make it great.,200,EMEA,3,4.5
+10719,4,3,Service fell short of expectations in multiple ways. Not satisfied.,123,North America,2,3.5
+10584,4,4,"Service was okay. Not great, not terrible - just average.",91,APAC,1,4.0
+12110,8,8,Could not be happier with the service. Top notch in every way!,1033,North America,4,8.0
+11546,5,4,Passable experience. Does the job but without any extras or special care.,81,EMEA,1,4.5
+11214,5,3,"Service was okay. Not great, not terrible - just average.",90,North America,1,4.0
+10448,4,4,"Mediocre experience overall. Some good points, some areas needing improvement.",70,North America,1,4.0
+10855,4,4,Adequate service but lacks that special touch to make it great.,991,APAC,3,4.0
+11010,6,5,Adequate service but lacks that special touch to make it great.,290,APAC,2,5.5
+10232,8,8,Incredible customer service and value. Best experience I've had in years.,180,North America,1,8.0
+11903,6,7,Good customer service and decent value. Some processes could be streamlined.,1165,EMEA,3,6.5
+10882,4,4,Service meets basic expectations but doesn't exceed them in any way.,119,North America,4,4.0
+10340,4,6,"Mediocre experience overall. Some good points, some areas needing improvement.",1139,APAC,2,5.0
+11244,6,6,Good customer service and decent value. Some processes could be streamlined.,12,APAC,3,6.0
+11046,6,5,"Service was okay. Not great, not terrible - just average.",388,EMEA,1,5.5
+12079,4,6,Service meets basic expectations but doesn't exceed them in any way.,36,EMEA,1,5.0
+10551,4,4,"Neutral feelings about the service. Some good, some not so good.",72,APAC,1,4.0
+10950,7,6,Good customer service and decent value. Some processes could be streamlined.,61,North America,1,6.5
+10462,6,6,Generally pleased with the service provided. A few hiccups but nothing major.,68,EMEA,1,6.0
+11034,5,4,"Mediocre experience overall. Some good points, some areas needing improvement.",369,APAC,1,4.5
+11429,6,2,"Neutral feelings about the service. Some good, some not so good.",125,North America,1,4.0
+10811,3,1,Too many problems to consider this a good service. Significant improvement needed.,2491,APAC,2,2.0
+11397,4,3,Service fell short of expectations in multiple ways. Not satisfied.,539,EMEA,1,3.5
+11795,4,3,Below average service with several issues that need addressing.,718,EMEA,2,3.5
+11362,2,0,Service was a complete disaster. Too many issues to even list here.,41,EMEA,1,1.0
+10956,6,6,Mostly positive experience. A couple of small issues but handled well.,560,North America,2,6.0
+11582,8,6,"Good service overall, though there's some room for minor improvements.",140,North America,3,7.0
+11315,3,2,Disappointed with several aspects of the service. Needs improvement.,894,North America,2,2.5
+10394,6,4,Middle of the road experience. Some positives balanced by some negatives.,602,North America,1,5.0
+10123,6,8,Quite satisfied with my experience. A few small suggestions for improvement.,81,EMEA,2,7.0
+11166,6,6,Mostly positive experience. A couple of small issues but handled well.,964,North America,1,6.0
+10739,2,4,Several problems with the service that made for a frustrating experience.,113,North America,1,3.0
+10133,5,5,"Neutral feelings about the service. Some good, some not so good.",999,APAC,3,5.0
+11735,7,7,Satisfied customer here. Just a few minor suggestions for improvement.,239,North America,1,7.0
+11136,7,8,Pretty good service overall. A few areas could use some attention.,2,North America,1,7.5
+10964,5,3,Passable experience. Does the job but without any extras or special care.,919,North America,1,4.0
+10587,5,4,"Service was okay. Not great, not terrible - just average.",734,EMEA,2,4.5
+10021,8,6,Quite satisfied with my experience. A few small suggestions for improvement.,204,North America,2,7.0
+10784,4,6,"Service was okay. Not great, not terrible - just average.",260,EMEA,2,5.0
+10599,6,6,Mostly positive experience. A couple of small issues but handled well.,85,APAC,2,6.0
+10853,2,3,Too many problems to consider this a good service. Significant improvement needed.,269,APAC,4,2.5
+10978,8,7,"Good service overall, though there's some room for minor improvements.",563,APAC,2,7.5
+11142,9,8,Outstanding experience! Every aspect of the service exceeded my expectations.,2092,North America,1,8.5
+11199,2,2,Disappointed with several aspects of the service. Needs improvement.,1077,APAC,4,2.0
+11442,7,8,Generally pleased with the service provided. A few hiccups but nothing major.,1385,EMEA,3,7.5
+11191,2,3,Service fell short of expectations in multiple ways. Not satisfied.,456,North America,1,2.5
+10095,4,3,Underwhelmed by the experience. Multiple pain points that weren't addressed.,526,EMEA,2,3.5
+10893,9,7,Absolutely love the service. The team went above and beyond my expectations.,265,APAC,1,8.0
+10694,3,3,Several problems with the service that made for a frustrating experience.,351,APAC,2,3.0
+11790,8,8,Amazing service and support. They really know how to treat customers right.,352,APAC,3,8.0
+11740,5,6,"Average service. Nothing particularly bad, but nothing stands out either.",267,APAC,1,5.5
+10403,6,4,"Average service. Nothing particularly bad, but nothing stands out either.",148,EMEA,2,5.0
+11992,5,6,Middle of the road experience. Some positives balanced by some negatives.,488,APAC,1,5.5
+10612,4,4,Middle of the road experience. Some positives balanced by some negatives.,377,North America,3,4.0
+11408,2,3,Service quality was lacking in several important areas. Would not recommend.,889,APAC,1,2.5
+11835,4,4,"Service was okay. Not great, not terrible - just average.",49,North America,2,4.0
+10339,9,9,Exceptional experience across all touchpoints! Will definitely recommend to others.,251,APAC,2,9.0
+10741,7,4,Adequate service but lacks that special touch to make it great.,891,EMEA,1,5.5
+11066,7,8,Pretty good service overall. A few areas could use some attention.,416,APAC,1,7.5
+10703,3,3,Too many problems to consider this a good service. Significant improvement needed.,1445,North America,4,3.0
+10559,2,2,Below average service with several issues that need addressing.,25,EMEA,1,2.0
+10845,7,6,"Good service overall, though there's some room for minor improvements.",290,North America,2,6.5
+10101,5,6,"Average service. Nothing particularly bad, but nothing stands out either.",643,North America,1,5.5
+10984,5,4,Passable experience. Does the job but without any extras or special care.,346,North America,2,4.5
+11837,5,5,"Neutral feelings about the service. Some good, some not so good.",404,APAC,1,5.0
+10174,2,1,Service was a complete disaster. Too many issues to even list here.,599,EMEA,2,1.5
+11860,7,6,Satisfied customer here. Just a few minor suggestions for improvement.,1094,North America,1,6.5
+10429,4,3,Not very satisfied. Multiple issues created an overall poor impression.,82,North America,1,3.5
+10554,8,10,Outstanding experience! Every aspect of the service exceeded my expectations.,1354,North America,1,9.0
+10827,5,5,Adequate service but lacks that special touch to make it great.,806,North America,1,5.0
+11536,3,3,Too many problems to consider this a good service. Significant improvement needed.,164,EMEA,1,3.0
+10491,6,4,"Service was okay. Not great, not terrible - just average.",26,North America,3,5.0
+11639,3,4,Several problems with the service that made for a frustrating experience.,1346,EMEA,2,3.5
+10578,4,5,"Mediocre experience overall. Some good points, some areas needing improvement.",678,North America,1,4.5
+11069,7,6,Satisfied customer here. Just a few minor suggestions for improvement.,223,North America,1,6.5
+11360,5,7,"Good service overall, though there's some room for minor improvements.",88,EMEA,3,6.0
+10891,6,4,Middle of the road experience. Some positives balanced by some negatives.,2455,EMEA,2,5.0
+11371,4,1,Too many problems to consider this a good service. Significant improvement needed.,491,North America,2,2.5
+10868,5,3,"Mediocre experience overall. Some good points, some areas needing improvement.",208,North America,1,4.0
+11121,5,4,Adequate service but lacks that special touch to make it great.,627,APAC,2,4.5
+11070,6,5,Service meets basic expectations but doesn't exceed them in any way.,270,North America,2,5.5
+11540,3,5,Service meets basic expectations but doesn't exceed them in any way.,770,EMEA,3,4.0
+11372,6,6,Pretty good service overall. A few areas could use some attention.,110,EMEA,1,6.0
+12084,7,6,Satisfied customer here. Just a few minor suggestions for improvement.,2055,North America,2,6.5
+10401,5,5,Service meets basic expectations but doesn't exceed them in any way.,229,APAC,2,5.0
+10216,5,6,"Service was okay. Not great, not terrible - just average.",971,North America,1,5.5
+11044,4,4,"Average service. Nothing particularly bad, but nothing stands out either.",202,North America,1,4.0
+11904,4,4,Passable experience. Does the job but without any extras or special care.,2239,North America,1,4.0
+11261,9,9,Incredible customer service and value. Best experience I've had in years.,1224,EMEA,2,9.0
