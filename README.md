@@ -6,19 +6,18 @@ This Python script automates the collection and consolidation of customer feedba
 ---
 
 ## Requirements
-- Python 3.8 or higher
+- Python 3.13 or higher
   - Python packages:
   ```bash
-  pip install requests pandas
+  pip install -r requirements.txt
   ```
   
 ### Running the script
-1. Open a terminal or your IDE (I used PyCharm) in the project directory.
-2. Run the script:
+1. Run the script:
     ```
     python pipeline.py
    ```
-3. The output CSV will be generated at:
+2. The output CSV will be generated at:
     ```
    output/customer_feedback.csv
    ```
